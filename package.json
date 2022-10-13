@@ -1,0 +1,23 @@
+{
+  "name": "pro-readme",
+  "version": "1.0.0",
+  "description": "I know creating a ReadMe can be complicated sometimes, I got you!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmersilus/Pro-ReadMe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmersilus/Pro-ReadMe/issues"
+  },
+  "homepage": "https://github.com/jmersilus/Pro-ReadMe#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
